@@ -1,0 +1,10 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul li a {
+    text-decoration: none;
+    font-weight: bold;
+}
+#linkedin-logo, #instagram-logo{
+    width: 40px;
+}
